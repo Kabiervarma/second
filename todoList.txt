@@ -4,3 +4,8 @@ TODOLIST
  -task
  -task
  -task
+ -dsa
+ -python fluency
+ -download react
+ -display data 
+
